@@ -1,0 +1,39 @@
+say: "Hola. ¿En qué te puedo ayudar?"
+answers:
+
+  Quiero más información acerca de los cursos:
+    say: Claro que sí, con mucho gusto. ¿Qué te interesa más ahora mismo?
+    answers:
+      Aprender todo sobre Javascript de forma práctica:
+        say: https://www.udemy.com/javascript-curso-practico-y-completo/?couponCode=INVITACION
+      Aprender Laravel desarrollando una aplicación:
+        say: https://www.udemy.com/curso-laravel-5-5-desde-cero-desarrolla-publica-una-app-pedidos/?couponCode=INVITACION
+      Aprender a integrar Laravel y Vue desarrollando un clon de Messenger:
+        say: https://www.udemy.com/realtime-messenger-usando-laravel-vue-bootstrap-pusher/?couponCode=PROMOCION
+      Implementar un inicio de sesión vía redes sociales:
+        say: https://www.udemy.com/laravel-y-oauth-2-facebook-twitter-google/?couponCode=INVITACION
+
+  Tengo una duda sobre programación:
+    say: Acerca de tu duda...
+    answers:
+      Tengo una duda sobre un video que vi en el canal de Youtube:
+        say: Gracias por visitar el canal. Por favor escribe tu duda en un comentario, y te responderé por allí tan pronto como pueda.
+      Quiero asesoría personalizada:
+        say: Gracias por tu interés. Por favor visita este enlace, donde verás cómo puedo ayudarte https://programacionymas.com/asesoria
+
+  Quiero solicitar el desarrollo de un proyecto:
+    say: ¿Tienes definido formalmente el proyecto y estás dispuesto a invertir en él?
+    answers:
+      Aún no está definido totalmente:
+        say: Por favor cuéntame más y entonces te diré cómo puedo ayudarte.
+      Está definido pero no cuento con un presupuesto:
+        say: Entiendo. En tal caso te recomiendo inscribirte a mis cursos sobre programación. Puedes aprender mucho con los tutoriales, y además siempre atiendo todas las dudas.
+      Sí, tengo el proyecto definido formalmente y cuento con presupuesto:
+        say: Genial. Por favor envíame un documento con los requerimientos y te contactaré tan pronto como tenga una propuesta.
+  
+  Tengo una sugerencia:
+    say: Todas las sugerencias son bienvenidas. Por favor dime cómo podemos mejorar.
+
+  Quiero reportar un error en la página:
+    say: Por favor dime qué error has encontrado. Si es posible adjunta capturas para poder solucionarlo pronto.
+  

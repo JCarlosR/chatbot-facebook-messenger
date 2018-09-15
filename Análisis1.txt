@@ -1,0 +1,19 @@
+abc
+-> (?)
+--> No escriba nada
+--> Reiniciar la comunicación
+
+"Hola! Por favor selecciona una opción para poder ayudarte."|"bot"
+"Cursos disponibles"|"user"
+"Tenemos varios cursos! Todos ellos son muy interesantes y totalmente prácticos. Por favor selecciona la opción que te resulte más interesante."|"bot"
+"Dominar Javascript"|"user"
+"https://www.udemy.com/javascript-curso-practico-y-completo/?couponCode=INVITACION"|"bot"
+
+"xyz"|"user"
+"Disculpa, no entendí. ¿Quieres volver a empezar?"|"bot"          Sí, No
+"Sí"|"user"|reset=True
+...
+
+Cómo se reinicia la conversación?
+- Eliminar (limpiar) el historial 
+- 

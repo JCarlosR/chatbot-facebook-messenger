@@ -1,0 +1,21 @@
+- Echo
+=> Chatbot
+
+1. Cambiar los logging info para mostrar la parte que nos interesa
+2. Analizar si recibimos los eventos echo y activarlos en caso que no
+3. Hacer que nuestro bot actúe en función a estos eventos de tipo echo
+-- Detectar y guardar author admin
+-- Si hay un evento donde author is admin, desactivar bot
+
+
+
+
+
+admin -> is_echo True      NO app_id
+bot   -> is_echo True      app_id PRESENTE
+
+si es echo:
+	si hay 1 app id:
+		ignorar por completo el mensaje
+	sino:
+		el administrador ha escrito y el bot se debe desactivar

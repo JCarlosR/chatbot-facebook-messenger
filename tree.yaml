@@ -1,0 +1,31 @@
+say: "Hola! Por favor selecciona una opción para poder ayudarte."
+answers:
+
+  Cursos disponibles:
+    say: Tenemos varios cursos! Todos ellos son muy interesantes y totalmente prácticos. Por favor selecciona la opción que te resulte más interesante.
+    answers:
+      Dominar Javascript:
+        say: https://www.udemy.com/javascript-curso-practico-y-completo/?couponCode=INVITACION
+      Aprender Laravel:
+        say: https://www.udemy.com/curso-laravel-5-5-desde-cero-desarrolla-publica-una-app-pedidos/?couponCode=INVITACION
+      Integrar Laravel+Vue:
+        say: https://www.udemy.com/realtime-messenger-usando-laravel-vue-bootstrap-pusher/?couponCode=PROMOCION
+
+  Tengo una duda:
+    say: ¿Es una duda sobre un video que viste en el canal de Youtube? ¿O necesitas ayuda personalizada?
+    answers:
+      Es sobre un video:
+        say: Gracias por visitar el canal. Por favor escribe tu duda en un comentario, y te responderé por allí tan pronto como pueda.
+      Busco asesoría:
+        say: Gracias por tu interés. Por favor visita este enlace, donde verás cómo puedo ayudarte https://programacionymas.com/asesoria
+
+  Solicitar desarrollo:
+    say: ¿Tienes definido formalmente el proyecto y estás dispuesto a invertir en él?
+    answers:
+      Aún no está definido:
+        say: Por favor cuéntame más y entonces te diré cómo puedo ayudarte.
+      No tengo presupuesto:
+        say: Entiendo. En tal caso te recomiendo inscribirte a mis cursos sobre programación. Puedes aprender mucho con los tutoriales, y además siempre atiendo todas las dudas.
+      Sí y sí:
+        say: Genial. Por favor envíame un documento con los requerimientos y te contactaré tan pronto como tenga una propuesta.
+ 
