@@ -4,7 +4,7 @@
 
 A continuación puedes ver una presentación en formato de video de lo que aprenderás en el curso.
 
-[![Curso de Laravel 5.5](https://udemy-images.udemy.com/course/750x422/1865994_ab93_2.jpg)](https://www.youtube.com/watch?v=8poZA7FZa0g)
+[![Curso de Chatbot para Messenger con Python](https://res.cloudinary.com/pym/image/upload/c_scale,f_auto,q_auto,w_420/v1599162695/courses/PythonChatbot.png)](https://www.youtube.com/watch?v=8poZA7FZa0g)
 
 ## Contenido
 
